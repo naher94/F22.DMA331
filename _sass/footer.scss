@@ -1,0 +1,86 @@
+//******* Footer Styling
+footer{
+  margin-block-start: 4rem;
+  color: semantic-color(text);
+  padding-block-end: 2rem;
+
+  @include breakpoint(small only) {
+    margin-block-start: 3rem;
+    padding-bottom: 4rem;
+  }
+
+  .visual-divider{
+    height: 2px;
+    background-color: semantic-color(visual-divider);
+    border-radius: $pill-radius;
+    max-width: 400px;
+    margin: auto;
+    margin-block-end: 3rem;
+    @include breakpoint(small only) {
+      max-width: 200px;
+    }
+  }
+  .left-section{
+    @include breakpoint(small only) {
+      justify-content: center;
+    }
+  }
+  .right-section{
+    @include breakpoint(small only) {
+      margin-block-start: 2rem;
+      text-align: center;
+    }
+  }
+  .logo{
+    #wm-logo-footer{
+      height: 30px;
+      transition: $sprint;
+      &:hover{
+        animation: boing 300ms ease-out;
+        path{
+          fill: $wm-purple;
+        }
+      }
+      path{
+        fill: semantic-color(logo);
+      }
+    }
+  }
+
+  font-family: $montserrat;
+  .content-area{
+    p{
+      margin: 0;
+      padding: 0;
+      line-height: 1.1;
+    }
+    a{
+      color: semantic-color(text);
+    }
+    .footer-heading{
+      font-weight: $montserrat-bold;
+    }
+    @include breakpoint(small only) {
+      text-align: center;
+    }
+  }
+
+}
+
+.social {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  font-size: 1.5em;
+  color: semantic-color(social-icons);
+  @include breakpoint(small only) {
+    font-size: 3em;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+  }
+  &:hover, &:focus{
+    color: $wm-purple;
+    .fab, .fas{
+      animation: boing 300ms ease-out;
+    }
+  }
+}

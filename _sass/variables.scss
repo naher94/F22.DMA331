@@ -1,0 +1,148 @@
+//******* Variables
+
+// Numbers
+$color-percentage: 5%;
+$tile-radius: 10px;
+$tile-radius-medium: 20px;
+$tile-radius-big: 30px;
+$pill-radius: 500px;
+$recessed-shadow: 0px 10px 33px -10px;
+
+// Colors
+$pure-white: #ffffff;
+$pure-black: #000000;
+
+//// Brand Colors
+$wm-purple: #7550A1;
+$purple-black: #1B0833;
+
+//// [number indicates number of step removed from main]
+//// Dark Set
+$wm-purple-d1: mix($pure-black, $wm-purple, 10%);
+$wm-purple-d2: mix($pure-black, $wm-purple, 20%);
+$wm-purple-d3: mix($pure-black, $wm-purple, 30%);
+$wm-purple-d4: mix($pure-black, $wm-purple, 40%);
+$wm-purple-d5: mix($pure-black, $wm-purple, 50%);
+$wm-purple-d6: mix($pure-black, $wm-purple, 60%);
+$wm-purple-d7: mix($pure-black, $wm-purple, 70%);
+$wm-purple-d8: mix($pure-black, $wm-purple, 80%);
+$wm-purple-d9: mix($pure-black, $wm-purple, 90%);
+
+//// Light Set
+$wm-purple-l1: mix($pure-white, $wm-purple, 10%);
+$wm-purple-l2: mix($pure-white, $wm-purple, 20%);
+$wm-purple-l3: mix($pure-white, $wm-purple, 30%);
+$wm-purple-l4: mix($pure-white, $wm-purple, 40%);
+$wm-purple-l5: mix($pure-white, $wm-purple, 50%);
+$wm-purple-l6: mix($pure-white, $wm-purple, 60%);
+$wm-purple-l7: mix($pure-white, $wm-purple, 70%);
+$wm-purple-l8: mix($pure-white, $wm-purple, 80%);
+$wm-purple-l9: mix($pure-white, $wm-purple, 90%);
+
+
+//Semantic colors maps the color palette above to their use across the application
+//// This method allows for several flavors of a color to be added such as a dark mode or a high contrast for example
+$semantic-colors:(
+  light:(
+    text: $pure-black,
+    text-inverted: $pure-white,
+    link: $wm-purple,
+    shadow: rgba($purple-black,0.75),
+    logo: $pure-black,
+    social-icons: $pure-black,
+    title-underline: $wm-purple-l5,
+    visual-divider: #dadada,
+    selection-background: $wm-purple-l5,
+    card-background: $wm-purple-l7,
+    table-body: $pure-white,
+    table-row-even: #dadada,
+    table-header: #f8f8f8,
+    table-border: #f1f1f1,
+  ),
+  dark:(
+    text: $pure-white,
+    text-inverted: $pure-black,
+    link: $wm-purple-l2,
+    shadow: rgba($wm-purple-d9,0.75),
+    logo: $pure-white,
+    social-icons: $pure-white,
+    title-underline: $wm-purple-d1,
+    visual-divider: $wm-purple-d3,
+    selection-background: $wm-purple-l5,
+    card-background: $wm-purple-d5,
+    table-body: $wm-purple-d7,
+    table-row-even: $wm-purple-d5,
+    table-header: $wm-purple-d8,
+    table-border: $wm-purple-d4,
+  ),
+);
+
+//Helper function to build CSS colors
+@function compose-color($color-key) {
+  @return '--color-#{$color-key}';
+}
+
+//Function to be called inline for color mapping
+@function semantic-color($color-key) {
+  @return (var(--color-#{$color-key}));
+}
+
+:root{
+  @each $key, $value in map-get($semantic-colors, 'light') {
+    #{compose-color($key)}: #{$value};
+  }
+  @media (prefers-color-scheme: dark) {
+    @each $key, $value in map-get($semantic-colors, 'dark') {
+      #{compose-color($key)}: #{$value};
+    }
+  }
+}
+
+// Animations
+$sprint: all 0.20s ease-in-out;
+$run: all 0.30s ease-in-out;
+$jog: all 0.50s ease-in-out;
+
+@keyframes boing{
+  15%{
+    transform-origin: center center;
+    transform:scale(1.4, 1.2)
+  }
+
+  40%{
+    transform-origin: center center;
+    transform:scale(0.9, 0.9)
+  }
+
+  75%{
+    transform-origin: center center;
+    transform:scale(1.08, 1)
+  }
+
+  100%{
+    transform-origin: center center;
+    transform:scale(1, 1)
+  }
+}
+
+// Typography
+
+@import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900i,900&display=swap');
+$lato: 'Lato', sans-serif;
+$lato-thin: 100;
+$lato-light-italic: 300i;
+$lato-regular: 400;
+$lato-bold: 700;
+$lato-bold-italic: 700i;
+$lato-black: 900;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;900&display=swap');
+$montserrat: 'Montserrat', sans-serif;
+$montserrat-regular: 400;
+$montserrat-medium: 500;
+$montserrat-bold: 700;
+$montserrat-black: 900;
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+$caveat: 'Caveat', cursive;
+$caveat-regular: 400;

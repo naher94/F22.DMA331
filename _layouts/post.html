@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <section>
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    {% if page.collection == 'classes' %}
+      {% if page.slides %}
+        <a href="{{page.slides}}" target="_blank" rel="noopener" class="main-links">
+          Slides <i class="fas fa-arrow-right"></i>
+        </a>
+      {% endif %} 
+    {% endif %}
+  </section>
+
+  <section class="post-content" itemprop="articleBody">
+    {{ content }}
+
+    {% if page.collection == 'classes' %}
+      {% for assignment in site.assignments %}
+        {% if assignment.date == page.date %}
+          {% include assignment-callout.html %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  </section>
+
+</article>

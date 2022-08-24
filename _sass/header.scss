@@ -1,0 +1,26 @@
+//******* Header Styling
+
+header{
+  padding-top: 2em;
+  padding-bottom: 2em;
+  margin-block-end: 4rem;
+  @include breakpoint(small only){
+    margin-block-end: 2rem;
+  }
+}
+
+.logo{
+  #wm-logo-header{
+    height: 50px;
+    transition: $sprint;
+    &:hover{
+      animation: boing 300ms ease-out;
+      path{
+        fill: $wm-purple;
+      }
+    }
+    path{
+      fill: semantic-color(logo); //Changes the color of my logo inline
+    }
+  }
+}
