@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hi-Fi & Detailing
-date: 2021-09-23
+date: 2021-09-22
 slides: https://docs.google.com/presentation/d/1k_zjApnypyLoe5EHzhYTuEm7Gu2F4i9Rw3zvOgr4D0c/edit?usp=sharing
 ---
 

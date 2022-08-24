@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 🦃 No Class
-date: 2021-11-25
+date: 2021-11-24
 more: false
 ---
 

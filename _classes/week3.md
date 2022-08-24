@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Responsive Design
-date: 2021-09-09
+date: 2021-09-08
 slides: https://docs.google.com/presentation/d/1565mqK3WUzMWW7u4ha-w-PPahsuKYfAjtv253bXK5mk/edit?usp=sharing
 ---
 

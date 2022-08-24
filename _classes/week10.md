@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prototyping & Interactions
-date: 2021-10-28
+date: 2021-10-27
 slides: https://docs.google.com/presentation/d/1M1t4ONOw_jtlWaXMBrYme_c3xvap8c6vJkp32E2l1oQ/edit?usp=sharing
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Design Process
-date: 2021-09-02
+date: 2021-09-01
 slides: https://docs.google.com/presentation/d/1M7WtswvI8vUOMThsFDohuUnMCue76MhrdCW-VieWcNw/edit?usp=sharing
 ---
 

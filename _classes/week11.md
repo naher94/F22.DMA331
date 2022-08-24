@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Content Design
-date: 2021-11-04
+date: 2021-11-03
 slides: https://docs.google.com/presentation/d/1FFdiAiJuGfYAU7OqwjBmpFB829Nk-NFD7jndSexZHF4/edit?usp=sharing
 ---
 

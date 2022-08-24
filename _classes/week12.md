@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Design + Dev Collaboration
-date: 2021-11-11
+date: 2021-11-10
 ---
 
 Working with developers is a key part of shipping a product. Learning and considering technical underpinnings is a necessary part of the design process, but unfortunately often gets forgotten.

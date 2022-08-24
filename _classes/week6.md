@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Theory & Execution
-date: 2021-09-30
+date: 2021-09-29
 slides: https://docs.google.com/presentation/d/1e9njceMCXmByIUPPK5VpiYpOiQ7ay6XaoVNq491JgWk/edit?usp=sharing
 ---
 
