@@ -2,7 +2,7 @@
 layout: post
 title: What is Design?
 date: 2021-08-25
-slides: https://docs.google.com/presentation/d/1NdaYArLmMma4qunsCJKtBrQ5jPVu5Q0zvV_Z_TtbPcs/edit?usp=sharing
+slides: https://docs.google.com/presentation/d/1c9Wwyz6c1invXpVXNS8diXm3rSQ-aNQzTTAzU7VIyRg/edit?usp=sharing
 ---
 
 Wikipedia says: "A design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process."
