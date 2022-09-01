@@ -14,26 +14,17 @@ Document in Figma a UX audit of the following sites and scenarios across their d
 * [Weather.gov](https://www.weather.gov)
 	* Looking up the weather overview for Pittsburgh
 	* Reviewing hourly for the next day
-* [Royal Mansour](https://www.royalmansour.com/en/)
-	* Exploring the amenities and rooms
-	* Booking a stay in December
 * [Noodlehead](http://noodleheadpgh.com)
 	* Exploring the menu and getting their location
 	* Placing an online order
 
-Create a new file for your assignment in the "UX Audit" Figma project following a similar format of the [template.](https://www.figma.com/file/47GeOsq7eD0acRt4N9esHU/DMA331---UX-Audit-Template?node-id=0%3A1)([.fig](/documents/ux-audit-template.fig)) Also make sure that the file name starts with your name.
+Create a new FigJam for your assignment in the "UX Audit" Figma project following a similar format of the [template.](https://www.figma.com/file/ITPOT4LDIPShiGrtHG8Wfo/UX-Audit-Template?node-id=0%3A1) Also make sure that the file name starts with your name.
 
 <!-- https://usabilitygeek.com/ux-audit-beginners-guide/ -->
 
 ## Grading Rubric
 
 This assignment will account for 60 points. Split evenly among the applications listed above and the criteria listed below. Where each application accounts for 20 points.
-
-<!-- | Criteria | 100% | 80% | 60% | 40% | 20% | 0% | Available Points |
-| --- | ----------- | ---- |
-| Usability Heuristics | Notes several instances of each heuristic in both mobile and desktop | Notes several instances of each heuristic across mobile and desktop | Notes 1 instance of each heuristic | Notes at least half of the heuristics | Notes less then half of the heuristics | No Evidence | 10 |
-| Mental Modeling / Workflow | Title | 5 | -->
-
 
 | | Usability Heuristics | Mental Modeling / Workflow |
 | --- | ----------- | ---- |
