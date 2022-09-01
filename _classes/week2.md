@@ -2,7 +2,7 @@
 layout: post
 title: The Design Process
 date: 2021-09-01
-slides: https://docs.google.com/presentation/d/1M7WtswvI8vUOMThsFDohuUnMCue76MhrdCW-VieWcNw/edit?usp=sharing
+slides: https://docs.google.com/presentation/d/13vOXgB1ovyFljatLXfX9-ubDAOODLOTQzLP6eLzjEv0/edit?usp=sharing
 ---
 
 Processes change team to team and over time, but the general structure remains. Starting with an area to explore, some might call this a problem space or growth area to execution and putting a solution in from of your users. A key concept to a successful process is the willingness to throw away ideas and bring in new ones, a good mix of divergent and convergent concepts.
