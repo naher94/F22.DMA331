@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UX Audit
-date: 2021-09-08
+date: 2022-09-08
 ---
 
 A user experience audit is the process of identifying potential areas for usability improvements based on established heuristics and/or prior research. In this case we will be using the [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/). UX audits also aim to capture areas of a workflow that well execute established heuristics.

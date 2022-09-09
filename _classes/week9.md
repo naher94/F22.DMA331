@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Guest Lecture + Design Crit
-date: 2021-10-20
+date: 2022-10-20
 ---
 
 Adding some outside prespective to our midterm projects today special guess Susanna Zlotnikov joining us:

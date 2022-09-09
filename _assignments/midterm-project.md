@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Midterm Project
-date: 2021-10-27
+date: 2022-10-27
 ---
 <!-- Movie booking application.. the main issue being to create a feature that helps you and your friends / family... pick the right time and movie to watch rather then it happening over loads and loads of text messages and the decisions fatigue issue between the group. Book and buy tickets! as a group. -->
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Role of Storytelling
-date: 2021-10-06
+date: 2022-10-06
 slides: https://docs.google.com/presentation/d/10RGv0M78CadVZXnzK_UUYD7I3-qiY9aDyhcOMTsshGE/edit?usp=sharing
 ---
 

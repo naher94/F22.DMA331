@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Design?
-date: 2021-08-25
+date: 2022-08-25
 slides: https://docs.google.com/presentation/d/1c9Wwyz6c1invXpVXNS8diXm3rSQ-aNQzTTAzU7VIyRg/edit?usp=sharing
 ---
 

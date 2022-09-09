@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Guest Lecture + Design Crit
-date: 2021-12-01
+date: 2022-12-01
 ---
 
 As we wrap up the semester today we will also have a special guest Ceda Verbakel:
