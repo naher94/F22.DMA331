@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Responsify!
-date: 2022-09-22
+date: 2022-09-29
 ---
 
 Based on comments from your audit and other best practices re-design the [Noodlehead](http://noodleheadpgh.com) site. Think about mobile users and desktop users, specific user workflows such as exploring the menu and getting their location and placing an online order.
