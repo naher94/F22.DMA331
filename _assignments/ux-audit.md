@@ -24,7 +24,7 @@ Create a new FigJam for your assignment in the "UX Audit" Figma project followin
 
 ## Grading Rubric
 
-This assignment will account for 60 points. Split evenly among the applications listed above and the criteria listed below. Where each application accounts for 20 points.
+This assignment will account for 60 points. Split evenly among the applications listed above and the criteria listed below. Where each application accounts for 30 points.
 
 | | Usability Heuristics | Mental Modeling / Workflow |
 | --- | ----------- | ---- |
