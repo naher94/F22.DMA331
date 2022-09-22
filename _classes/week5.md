@@ -2,7 +2,7 @@
 layout: post
 title: Hi-Fi & Detailing
 date: 2022-09-22
-slides: https://docs.google.com/presentation/d/1k_zjApnypyLoe5EHzhYTuEm7Gu2F4i9Rw3zvOgr4D0c/edit?usp=sharing
+slides: https://docs.google.com/presentation/d/1H4xo95-a0WDC_IyBohXVQ2S6wUBNvaQEk1Nmyog9ZS0/edit?usp=sharing
 ---
 
 Creating crisp and sharp designs help you convey your design objectives more clearly. High Fidelity detailed work bring this to the forefront through the use of visual design principles that contribute to the products aesthetic appeal and usability.
