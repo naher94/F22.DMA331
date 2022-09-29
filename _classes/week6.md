@@ -2,7 +2,7 @@
 layout: post
 title: Theory & Execution
 date: 2022-09-29
-slides: https://docs.google.com/presentation/d/1e9njceMCXmByIUPPK5VpiYpOiQ7ay6XaoVNq491JgWk/edit?usp=sharing
+slides: https://docs.google.com/presentation/d/10gHoKwTTSMDMenBVkZl-5Z93bfb1oDyPpMMbr-w17do/edit?usp=sharing
 ---
 
 We have spend the last several weeks talking about design theory, principles, frameworks and methodology. Now lets get deep into how we apply these principles and the theory of design to our design process.
