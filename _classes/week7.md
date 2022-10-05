@@ -10,7 +10,7 @@ The role of storytelling and presenting your work is key to many industries, inc
 <!-- PRESENTING YOUR WORK.. using Figma the figma mobile add continuing to play with Figma and use it to the full potential.... Vaporware can sometimes has the best sales tactics since they are selling you literally nothing but people buy in anyways -->
 
 ## Writing Assignment
-By Wednesday the 6th at 11:59pm (the day before class) post a response to the reading materials below taking into consideration the questions listed below. The assignment should be submitted to the #general channel on Slack.
+Before class post a response to the reading materials below taking into consideration the questions listed below. The assignment should be submitted to the #general channel on Slack.
 
 
 ## Readings
