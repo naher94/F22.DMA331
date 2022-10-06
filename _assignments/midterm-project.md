@@ -14,7 +14,7 @@ The goal of this project is to follow the design process start to finish by leve
 ## Logistics
 Document this project in Figma with 1 [page](https://help.figma.com/hc/en-us/articles/360038511293-Create-and-manage-pages) for the final design proposal and 1 page for all your working thoughts and ideas. Make sure to name your pages accordingly.
 
-Silver Screen Cinemas has shared their [brand guidelines](https://www.figma.com/file/qfl1c4orLiFYYoVkKbowd5/DMA331---Silver-Screen-Cinemas---Brand-Guidelines?node-id=0%3A1)([.fig](/documents/silver-screen-cinemas-brand-guidelines.fig)) for you to use and consider throughout this project. Make sure your designs are consistent with their brand, but also feel free to expand on the brand guidelines into more of a design system.
+Silver Screen Cinemas has shared their [brand guidelines](https://www.figma.com/file/bKL8y60gaFdf4Q9nGh0wXA/DMA331-Silver-Screen-Cinemas-Brand-Guidelines)([.fig](/documents/silver-screen-cinemas-brand-guidelines.fig)) for you to use and consider throughout this project. Make sure your designs are consistent with their brand, but also feel free to expand on the brand guidelines into more of a design system.
 
 This application can either be for iOS or Android, consider the platform's design patterns such as navigational elements throughout your design process.
 * [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
