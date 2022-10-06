@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Responsify! Part 2
-date: 2022-10-13
+date: 2022-10-12
 ---
 
 
