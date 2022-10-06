@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Motion
-date: 2022-11-03
+date: 2022-11-10
 ---
 
 This assignment explores motion and creating micro-interactions in Figma with their prototyping tools. Recreate the 2 motion details below, the hover effect of a tag and the checkout button. Think about the use of components and consistent layer names to best create your interactions.
