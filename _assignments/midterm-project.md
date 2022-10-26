@@ -40,7 +40,7 @@ The application should include at minimum a home page, a movie page where you ca
 **Due: Oct 27th.** This third milestone transforms your ideas into designs that look and feel more like a real product, accounting for user workflows and visual design details. 
 * **Hi-fi designs,** produce hi-fi designs bring your ideas into works that look closer to reality
 * **Presentation,** present your hi-fi designs in a way that clearly states your problem solving. Think about composing a presentation that helps you capture constructive comments from the design crit.
-* **Critique,** design crit plays a major role in the design process. Leave at least 3 constructive comments on each of your classmate's projects **(Due Oct 23rd)**
+* **Critique,** design crit plays a major role in the design process. Leave at least 3 constructive comments on each of your classmate's projects **(Due Oct 31rd)**
 
 ## Milestone 4: Final Product
 **Due: Nov 3rd.** The final product, a culmination of the full process from research to solution. Your design proposal and a representation of all your process done to date. Of course through out the project you can go back and add to any phase of the process that helps you refine your final solution.
