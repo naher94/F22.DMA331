@@ -2,7 +2,7 @@
 layout: post
 title: Prototyping & Interactions
 date: 2022-10-27
-slides: https://docs.google.com/presentation/d/1M1t4ONOw_jtlWaXMBrYme_c3xvap8c6vJkp32E2l1oQ/edit?usp=sharing
+slides: https://docs.google.com/presentation/d/1TKTWIFzRMXtvBYi_KJxmzLm9Wj6B404JfX192wu3EbQ/edit?usp=sharing
 ---
 
 
