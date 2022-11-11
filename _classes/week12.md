@@ -2,7 +2,7 @@
 layout: post
 title: Content Design
 date: 2022-11-10
-slides: https://docs.google.com/presentation/d/1FFdiAiJuGfYAU7OqwjBmpFB829Nk-NFD7jndSexZHF4/edit?usp=sharing
+slides: https://docs.google.com/presentation/d/1yyYK3opfzcruJ4AqkY_QHk-UqhCrPa9O13skIjmeTRQ/edit?usp=sharing
 ---
 
 
