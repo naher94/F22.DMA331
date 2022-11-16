@@ -10,7 +10,7 @@ Today we will also have a special guest Luke Hottinger:
 
 Well-architected data systems are Luke’s passion. As a data engineer at Carnegie Mellon, Luke has the privilege to solve the complex data challenges that face his alma mater. With his full-stack technologist background, he is able to bring unique perspectives when architecting and building the systems that not only move and store data, but also help drive key business intelligence metrics.
 
-Luke is currently working to organize the mass of health information from Carnegie Mellon’s COVID-19 Return to Campus planning initiatives.
+Luke is currently working to architect the future of Carnegie Mellon’s data pipelines to support a variety of data science and warehouse projects.
 
 ## Resources
 * [Designer vs. Developer Video Series](https://www.youtube.com/playlist?list=PLNYkxOF6rcIC60856GnLEV5GQXMxc9ByJ)
