@@ -17,7 +17,7 @@ Luke is currently working to architect the future of Carnegie Mellon’s data pi
 * [Design & Engineering Collaboration with Uber Engineer Faraz Ahmad (Livestream Repost)](https://www.youtube.com/watch?v=gtzriWbG48I)
 
 ## Writing Assignment
-By Wednesday the 10th at 11:59pm (the day before class) post a response to the reading materials below taking into consideration the questions listed below and post several question you would like discussed around the development process. The assignment should be submitted to the #general channel on Slack.
+By Friday the 18th at 11:59pm post a response to the reading materials below taking into consideration the questions listed below and post several question you would like discussed around the development process. The assignment should be submitted to the #general channel on Slack.
 
 ## Readings
 
